@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+/// show params in this page
 class ResultScreen extends StatelessWidget {
   final String message;
   final String name;

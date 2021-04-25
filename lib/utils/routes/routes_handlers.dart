@@ -1,9 +1,7 @@
-import 'dart:js';
-
 import 'package:fluro/fluro.dart';
-import 'package:fluro_navigation/ui/screens/empty_home.dart';
 import 'package:flutter/material.dart';
 
+import '../../ui/screens/empty_home.dart';
 import '../../ui/screens/home.dart';
 import '../../ui/screens/results.dart';
 
